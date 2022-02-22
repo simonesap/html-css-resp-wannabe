@@ -95,6 +95,12 @@ img {
   #lezioni .row h3{
     text-align: center;
   }
+  #lezioni .row .left,
+  .right{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
   #lezioni .row > .left{
     width: 100%;
   }
@@ -112,6 +118,13 @@ img {
 @media screen and (max-width: 420px) {
   #steps{
   max-width: 420px;
+  }
+ #steps .row .left,
+  .central,
+  .right{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
   }
   #steps .row{
     max-width: 100%;
@@ -152,6 +165,13 @@ img {
   #why .row h1{
     text-align: center;
   }
+  #why .row .third,
+  .second,
+  .first{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
   #why .row > .first{
     width: 100%;
   }
@@ -186,6 +206,12 @@ img {
   #lezioni .row h1{
     text-align: center;
   }
+  #lezioni .row .left,
+  .right{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
   #lezioni .row h3{
     text-align: center;
   }
@@ -213,6 +239,13 @@ img {
   }
   #steps .row h1{
     text-align: center;
+  }
+  #steps .row .left,
+  .central,
+  .right{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
   }
   #steps .row > .left{
     width: 100%;
@@ -245,6 +278,13 @@ img {
   }
   #why .row h1{
     text-align: center;
+  }
+  #why .row .third,
+  .second,
+  .first{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
   }
   #why .row > .first{
     width: 100%;
